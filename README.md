@@ -14,4 +14,4 @@ Create a geolocation application of several places using:
 	a SegmentedControlBar : to change the style of the map. 
 	a MKAnnotationView : to customize the pop-up map.
 
-![Image alt](https://github.com/vkozhemi/app-Navigation/raw/master/img/Navigation.gif)
+<img src="https://github.com/vkozhemi/app-Navigation/raw/master/img/Navigation.gif" width="300">
